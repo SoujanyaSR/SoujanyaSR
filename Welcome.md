@@ -12,4 +12,3 @@ This is Soujanya S R, currently a research scholar in Digital VLSI at IIIT-Banag
 
 - 📫 How to reach me: [mail](soujanya.sr@iiitb.ac.in) or [LinkedIn](https://www.linkedin.com/in/soujanya-sr/ )
 
--->
