@@ -3,7 +3,7 @@
 
 This is Soujanya S R, currently a research scholar in Digital VLSI at IIIT-Banaglore. Here's a brief introduction about my interest and my work so far!
 
-- 🔭 I’m currently working on in the areas of hardware accelerators for neural networks and exploiting the advantages of approximate computing in the same
+- 🔭 I’m currently working in the areas of hardware accelerators for neural networks and exploiting the advantages of approximate computing in the same
 - 🌱 I’m currently learning to implement a CNN based medical signal classification problem on FPGA using Vitis HLS
 - 👯 I’m looking to collaborate on works that are emerging in the field of Digital VLSI and Embedded Systems
 
